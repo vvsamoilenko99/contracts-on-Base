@@ -16,3 +16,5 @@ contract SimpleContract {
         return message;
     }
 }
+
+feat: add simple Base smart contract
